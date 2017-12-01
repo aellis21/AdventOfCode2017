@@ -1,0 +1,6 @@
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\bin\Debug\adventogcode.exe.config
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\bin\Debug\adventogcode.exe
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\bin\Debug\adventogcode.pdb
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\obj\Debug\adventogcode.exe
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\obj\Debug\adventogcode.pdb
+c:\users\aellis\documents\visual studio 2015\Projects\adventogcode\adventogcode\obj\Debug\adventogcode.csprojResolveAssemblyReference.cache
