@@ -21,7 +21,7 @@ namespace AdventOfCode.Puzzles
             var result = 0;
             foreach (var line in input.Split('\r', '\n').Where(n => n != ""))
             {
-                var numbers = line.Split(' ', '\t').Where(n => n != "").Select(int.Parse).OrderByDescending(n => n).ToArray();
+                var numbers = line.Split(' ', '\t').Where(n => n != "").Select(int.Parse).ToArray();
                 bool isFound = false;
                 for (int i = 0; i < numbers.Length; i++)
                 {
