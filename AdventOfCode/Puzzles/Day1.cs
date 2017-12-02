@@ -2,7 +2,7 @@
 
 namespace AdventOfCode.Puzzles
 {
-    public class DayOne
+    public class Day1
     {
         public static int PuzzleOne(char[] input)
         {
